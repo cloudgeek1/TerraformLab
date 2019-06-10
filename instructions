@@ -1,0 +1,1 @@
+Download all tf and tfvar files and put in your root terraform folder. Run terraform init to initialize first and build new backup files. I used Visual Studio Code for this project, made my life much easier. - cloudgeek
